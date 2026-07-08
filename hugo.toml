@@ -1,6 +1,4 @@
 baseURL = 'https://kcpdizon.github.io/'
 locale = 'en-us'
 title = 'trial hugo project'
-theme = 'ananke'
-
-
+theme = 'terminal'
